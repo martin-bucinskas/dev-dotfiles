@@ -15,3 +15,8 @@ All of the dotfiles are found under `/dotfiles` directory.
 The `/scripts` directory contains various different scripts I use day to day, along any other
 setup scripts required.
 
+## CheatSheets
+
+The `/cheatsheets` directory contains all the cheatsheets that are useful. Any raw editable cheatsheet files
+go into `/cheatsheets/raw` directory.
+
