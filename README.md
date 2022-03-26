@@ -22,4 +22,6 @@ go into `/cheatsheets/raw` directory.
 
 ## Examples
 
-[![asciicast](./resources/neovim-rust-setup-ascii.cast)](./resources/neovim-rust-setup-ascii.cast)
+### Neovim Rust Development
+
+[![asciicast](https://asciinema.org/a/H4GyoldqV10U7nBEcp5LNJUB9.svg)](https://asciinema.org/a/H4GyoldqV10U7nBEcp5LNJUB9)
