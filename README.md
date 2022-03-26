@@ -20,3 +20,6 @@ setup scripts required.
 The `/cheatsheets` directory contains all the cheatsheets that are useful. Any raw editable cheatsheet files
 go into `/cheatsheets/raw` directory.
 
+## Examples
+
+[![asciicast](./resources/neovim-rust-setup-ascii.cast)](./resources/neovim-rust-setup-ascii.cast)
